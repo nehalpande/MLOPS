@@ -1,0 +1,2 @@
+# MLOPS
+Assignments on mlops
